@@ -29,7 +29,7 @@
 <!-- Descrição pessoal -->
 💻 Oi, dev! 👋
 
-Eu me chamo Kaio Lima Pimentel, tenho 21 anos e sou um jovem amante da programação e da resolução de problemas. 💻🚀
+Eu me chamo Kaio Lima Pimentel, tenho 22 anos e sou um jovem amante da programação e da resolução de problemas. 💻🚀
 
 Desde os meus 15 anos, venho programando e, atualmente, estou focado no desenvolvimento web, criando sites para a internet. 🌐✨
 
