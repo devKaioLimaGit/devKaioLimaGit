@@ -33,7 +33,7 @@ Eu me chamo Kaio Lima Pimentel, tenho 22 anos e sou um jovem amante da programa�
 
 Desde os meus 15 anos, venho programando e, atualmente, estou focado no desenvolvimento web, criando sites para a internet. 🌐✨
 
-Adoro trocar ideias e fazer network com pessoas, pois acredito que, por meio da tecnologia, podemos construir um mundo melhor. 🌍💡
+Adoro trocar ideias e fazer network com pessoas, pois acredito que, por meio da tecnologia, podemos construir um mundo melhor. 🌍
 
 <!-- GIF animado -->
 <p align="left">
